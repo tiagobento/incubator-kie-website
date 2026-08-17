@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkie_site=self.webpackChunkkie_site||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/incubator-kie-website/blog","blogTitle":"Blog","authorsListPath":"/incubator-kie-website/blog/authors"}')}}]);

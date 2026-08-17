@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkie_site=self.webpackChunkkie_site||[]).push([[5754],{7799:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/incubator-kie-website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
